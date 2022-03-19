@@ -6,7 +6,7 @@ export const AboutPage: React.FC = () => {
     return (
         <>
             <div className="center">
-            <h4>Swapon TodoList</h4>
+            <h4>Swapon Saha TodoList</h4>
             <p>This is simple add and delete items</p>
             <button className="btn black" onClick={() => history.push('/')}>Back to to-do list</button>
             </div>
