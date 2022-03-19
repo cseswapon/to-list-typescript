@@ -7,7 +7,7 @@ export const AboutPage: React.FC = () => {
         <>
             <div className="center">
             <h4>Swapon TodoList</h4>
-            <p>This is simple add & delete item.</p>
+            <p>This is simple add hello hi delete item.</p>
             <button className="btn black" onClick={() => history.push('/')}>Back to to-do list</button>
             </div>
         </>
